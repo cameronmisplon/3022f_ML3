@@ -21,11 +21,12 @@ if __name__ == '__main__':
     AnotB = Perceptron(2, bias = -1.75)
     BnotA = Perceptron(2,bias = -1.75)
     orGate = Perceptron(2,bias = -0.5)
+    for m in range(5):
+        print("Training GATE_"+str(m)+"...")
     l =0
     valid_percentage =0
-    while valid_percentage < 0.98:
+    while True:
         l+=1
-        print('------ Iteration '+str(l)+ ' ------')
         notA.train(values_for_each_perceptron[0],notA_labels,learning_rate)
         notB.train(values_for_each_perceptron[1],notB_labels,learning_rate)
         AnotB_labels = []
@@ -46,6 +47,17 @@ if __name__ == '__main__':
             values_for_each_perceptron[4].append([temp1,temp2])
         orGate.train(values_for_each_perceptron[4],valid_labels,learning_rate)
         valid_percentage=orGate.validate(values_for_each_perceptron[4],valid_labels,verbose=False)
-        print(valid_percentage)
-        if l==100:
+        if l==100 or valid_percentage>0.98:
+            print("Constructing Network...")
+            print("Done!")
             break
+user = input("Please enter two inputs\n")
+while user!="exit":
+    user = user.split()
+    outputs = []
+    outputs.append(notA.activate([float(user[0])]))
+    outputs.append(notB.activate([float(user[1])]))
+    outputs.append(AnotB.activate([float(user[0]),outputs[1]]))
+    outputs.append(BnotA.activate([float(user[1]),outputs[0]]))
+    print("XOR Gate: "+str(int(orGate.activate([outputs[2],outputs[3]]))))
+    user = input("Please enter two inputs\n")
