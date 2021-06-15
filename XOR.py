@@ -2,7 +2,7 @@ import random
 from Perceptron import Perceptron
 
 if __name__ == '__main__':
-    num_train = 10
+    num_train = 100
     learning_rate = 0.1
     training_examples = []
     values_for_each_perceptron = [[],[],[],[],[]]
@@ -15,7 +15,7 @@ if __name__ == '__main__':
         values_for_each_perceptron[1].append([training_examples[i][1]])
         notA_labels.append(1.0 if training_examples[i][0] >= 0.75 else 0.0)
         notB_labels.append(1.0 if training_examples[i][1] >= 0.75 else 0.0)
-        valid_labels.append(1.0 if (training_examples[i][0]<0.75) != (training_examples[i][1]) else 0.0)
+        valid_labels.append(1.0 if (training_examples[i][0]>=0.75) != (training_examples[i][1]>=0.75) else 0.0)
     notA = Perceptron(1,bias=-0.75)
     notB = Perceptron(1,bias=-0.75)
     AnotB = Perceptron(2, bias = -1.75)
@@ -45,8 +45,7 @@ if __name__ == '__main__':
             temp2 = BnotA.activate(values_for_each_perceptron[3][k])
             values_for_each_perceptron[4].append([temp1,temp2])
         orGate.train(values_for_each_perceptron[4],valid_labels,learning_rate)
-        print(values_for_each_perceptron[4])
-        print(valid_labels)
-        #print(orGate.validate(values_for_each_perceptron[4],valid_labels,verbose=False))
+        valid_percentage=orGate.validate(values_for_each_perceptron[4],valid_labels,verbose=False)
+        print(valid_percentage)
         if l==100:
             break
