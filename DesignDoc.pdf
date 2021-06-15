@@ -1,0 +1,239 @@
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+3022F:MSPCAM001
+
+Part 1: Creating XOR Gate
+-The network makes use of 5 perceptrons, consisting of two not perceptrons, two and perceptrons and an or perceptron. The topology follows by having the user enter two numbers with each number activating their own not gate. The and gates use one not gate and the other input which wasn't used for the not gate as input. This allows the logic of each and gate to represent number 1 and not number 2, and number 2 and not number1. The or gate connects these two and gates and the result is a xor gate.
+
+-The training data makes use of the random libary to generate 100 pairs of numbers with each element belonging to [0,1]. The advantage of using random numbers allows the ANN to train while being fed a wide range of potentially noisy data. This improves the likelihood of our ANN reaching a stage where it can predict the output for a specific unseen input with a high success rate.
+
+-Testing different learning rates based on how many iterations it takes to reach 0.98 accuracy:
+	0.05 took on average 10 iterations
+	0.10 took on average 8.75 iterations
+	0.15 took on average 4.25 iterations
+	0.2 took on average 8.6 iterations
+	0.25 took on average 5.25 iterations
+	Therefore on average the most efficient learning rate appears to be somewhere around 0.15, but setting the learning rate higher resulted in achieving lower iterations than the best average on some occasions while on others it would result in much higher than average on others.
+	

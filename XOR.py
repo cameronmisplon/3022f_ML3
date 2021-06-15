@@ -3,7 +3,7 @@ from Perceptron import Perceptron
 
 if __name__ == '__main__':
     num_train = 100
-    learning_rate = 0.1
+    learning_rate = 0.15
     training_examples = []
     values_for_each_perceptron = [[],[],[],[],[]]
     valid_labels = []
@@ -29,6 +29,7 @@ if __name__ == '__main__':
         l+=1
         notA.train(values_for_each_perceptron[0],notA_labels,learning_rate)
         notB.train(values_for_each_perceptron[1],notB_labels,learning_rate)
+        print("Iteration: "+str(l))
         AnotB_labels = []
         BnotA_labels =[]
         values_for_each_perceptron[2] = []
